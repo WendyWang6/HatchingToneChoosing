@@ -139,5 +139,5 @@ Shader "Luyao/HatchingToneChoice"
 			ENDCG
 		}
     }
-	
+	FallBack "Diffuse"
 }
