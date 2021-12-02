@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: DotTexture
+  m_Name: HatchCustomMipmap
   m_Shader: {fileID: 4800000, guid: 7c941bb14005bbd45b55ca3e1b1ae845, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -40,27 +40,27 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch0:
-        m_Texture: {fileID: 2800000, guid: 0a081d880c3373947b640a681a7888e0, type: 3}
+        m_Texture: {fileID: 2800000, guid: cbed1a379225e2b439cc41f04d477261, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch1:
-        m_Texture: {fileID: 2800000, guid: 2be1df829b3c5c4428e196359208f79f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 99e9b5b03a3738a40bf5d0f61380ec17, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch2:
-        m_Texture: {fileID: 2800000, guid: 229d8ab3f1f89c64896df040f30afbdf, type: 3}
+        m_Texture: {fileID: 2800000, guid: faf163f24cb46e140ac02a4c0a561c83, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch3:
-        m_Texture: {fileID: 2800000, guid: 3836ecd812bbedf4e91a6fe18270c629, type: 3}
+        m_Texture: {fileID: 2800000, guid: d559e96329ba0c94b94b844268a41670, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch4:
-        m_Texture: {fileID: 2800000, guid: 022c210386833c54189a4b9138d433e3, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7c64e2e6522399145b1f6aa1d7782a58, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch5:
-        m_Texture: {fileID: 2800000, guid: 22a74622bbd3ab64bafba5e693febf04, type: 3}
+        m_Texture: {fileID: 2800000, guid: 47aaf5a84800d5840bae202743476a9b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -94,7 +94,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TileFactor: 18
+    - _TileFactor: 4
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
