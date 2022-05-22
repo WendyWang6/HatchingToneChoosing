@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HatchingMat
+  m_Name: Hatch_Test
   m_Shader: {fileID: 4800000, guid: 7c941bb14005bbd45b55ca3e1b1ae845, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -40,27 +40,27 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch0:
-        m_Texture: {fileID: 2800000, guid: 6769833b3011d634c812f08c986b7a96, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1d3a9bd18ac2f3649841ff2ea2ffcabd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch1:
-        m_Texture: {fileID: 2800000, guid: ce2147a11675b914b9212d77329f56b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 996aba04b917f6544bee7b16cff00ad7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch2:
-        m_Texture: {fileID: 2800000, guid: 0520f3a8d97d27a4b8560c70ac82a86d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2d3a22802d6bb9b4ebff98e6d99f502d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch3:
-        m_Texture: {fileID: 2800000, guid: 45827c7ecd0e1cb4a83f8101f1fd4cea, type: 3}
+        m_Texture: {fileID: 2800000, guid: 83dc94b442658414cbbe8890064406b2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch4:
-        m_Texture: {fileID: 2800000, guid: a451faa2e544eaa4b9c7b63814a3e58f, type: 3}
+        m_Texture: {fileID: 2800000, guid: d88e2449e988a6043aaae5f01ce742a7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch5:
-        m_Texture: {fileID: 2800000, guid: b7bf6d6d8e4438844b47f1f2e204ad9a, type: 3}
+        m_Texture: {fileID: 2800000, guid: daef77b8bb873934bbc89ce87781fc07, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -76,10 +76,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -105,5 +101,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []

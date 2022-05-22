@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HatchingMat
-  m_Shader: {fileID: 4800000, guid: 7c941bb14005bbd45b55ca3e1b1ae845, type: 3}
+  m_Name: Hatch_MyTAM_COSGamma
+  m_Shader: {fileID: 4800000, guid: 6e8ebad708833304fa108efcb20661b8, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -40,27 +40,35 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch0:
-        m_Texture: {fileID: 2800000, guid: 6769833b3011d634c812f08c986b7a96, type: 3}
+        m_Texture: {fileID: 2800000, guid: 73fecaf0e51ef6549b6a9a0ffddc354d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch1:
-        m_Texture: {fileID: 2800000, guid: ce2147a11675b914b9212d77329f56b8, type: 3}
+        m_Texture: {fileID: 2800000, guid: ff330a3c2218a6949b51d9ee300a13aa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch2:
-        m_Texture: {fileID: 2800000, guid: 0520f3a8d97d27a4b8560c70ac82a86d, type: 3}
+        m_Texture: {fileID: 2800000, guid: fdaa92d53d73e1440b1bdd4d2d4eb36f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch3:
-        m_Texture: {fileID: 2800000, guid: 45827c7ecd0e1cb4a83f8101f1fd4cea, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7d323436067e3d047a8b250b9cd8ec6f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch4:
-        m_Texture: {fileID: 2800000, guid: a451faa2e544eaa4b9c7b63814a3e58f, type: 3}
+        m_Texture: {fileID: 2800000, guid: a960bc94499b16e44955d3fc9b15079a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Hatch5:
-        m_Texture: {fileID: 2800000, guid: b7bf6d6d8e4438844b47f1f2e204ad9a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6e97fa5f9d1ea9c4a9cf2897039a8f0a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch6:
+        m_Texture: {fileID: 2800000, guid: d1136840338bc4e49b0a33a36df9e94d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Hatch7:
+        m_Texture: {fileID: 2800000, guid: d1b466c2ef1d98f4587d8efa412bdbd8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -76,10 +84,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -105,5 +109,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
